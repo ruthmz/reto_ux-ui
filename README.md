@@ -11,6 +11,9 @@ UX
  * Poder buscar rapidamete dentro de los generos sugeridos.
  * Sugerencias basadas en el historia de reproducciones
  * La calidad cambia de acuerdo a la velocidad de conexión
+ 
+ ![Youtube](assets/img/youtube-01.jpg)
+
  UX
 
  * Diseño de botones e iconos
@@ -20,4 +23,4 @@ UX
  
 
 
-![Youtube](assets/img/youtube.jpg)
+![Youtube](assets/img/youtube-02.jpg)
