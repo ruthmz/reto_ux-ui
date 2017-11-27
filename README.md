@@ -11,6 +11,7 @@ UX
  * Poder buscar rapidamete dentro de los generos sugeridos.
  * Sugerencias basadas en el historia de reproducciones
  * La calidad cambia de acuerdo a la velocidad de conexión
+ * Me da la opción de suscribirme a diversos canales de contenido
  
  ![Youtube](Assets/youtube-01.jpg)
 
