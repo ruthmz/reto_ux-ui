@@ -12,7 +12,7 @@ UX
  * Sugerencias basadas en el historia de reproducciones
  * La calidad cambia de acuerdo a la velocidad de conexión
  
- ![Youtube](assets/img/youtube-01.jpg)
+ ![Youtube](Assets/youtube-01.jpg)
 
  UX
 
@@ -23,4 +23,4 @@ UX
  
 
 
-![Youtube](assets/img/youtube-02.jpg)
+![Youtube](Assets/youtube-02.jpg)
